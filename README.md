@@ -1,6 +1,6 @@
 # sushi_app
 
-A new Flutter project.
+🍣📱 Exciting News: My Sushi App is Now Live! 🎉
 
 ## Getting Started
 
